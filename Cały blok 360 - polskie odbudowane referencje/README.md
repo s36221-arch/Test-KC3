@@ -1,0 +1,1 @@
+Polskie bloki referencyjne - zostały zmapowane lidarem, można potem użyć do tworzenia bryły w blenderze
